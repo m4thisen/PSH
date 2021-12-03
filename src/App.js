@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-import {mainUser, contactsMessages, Message } from './generateFakeData'
+import {mainUser, contactsMessages, Message } from './fakeDatabase'
 import Avatar from './components/Avatar'
 import ContactBox from './components/ContactBox'
 import MessagesBox from './components/MessagesBox'
