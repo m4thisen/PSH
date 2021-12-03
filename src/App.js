@@ -8,6 +8,7 @@ import ChatInputBox from './components/ChatInputBox'
 import logoPsh from './assets/psh_brand.png'
 
 import './App.css'
+import './styles/style.scss'
 
 function App() {
     //DATA CONTIENE UN ARRAY DE 3 ELEMENTOS, CADA UNO CORRESPONDE A UN CONTACTO Y CONTIENE MENSAJE Y DATOS DEL CONTACTO
